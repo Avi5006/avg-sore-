@@ -8,10 +8,10 @@ import java.util.Scanner;
    //ask for 2nd input
   System.out.print("Input second number: ");
   int num2 = inp.nextInt();
-   ask for 3rd input
+   //ask for 3rd input
   System.out.print("Input third number: ");
   int num3 = inp.nextInt();
-   ask for 4th input
+   //ask for 4th input
   System.out.print("Input fourth number: ");
   int num4 = inp.nextInt();
   //out puts your avg 
